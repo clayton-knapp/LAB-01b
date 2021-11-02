@@ -8,6 +8,12 @@ Bullet List
 * Item Two
 * Item Three
 
+Numbered List
+1. Item one
+1. Item two
+1. Item three
+1. Item four
+
 [This is a link](www.trashtreasury.com)
 
 This is an image
